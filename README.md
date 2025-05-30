@@ -33,7 +33,9 @@
 <ul>
   <li><a href="https://github.com/duythaidev/kitchen-utensils"><i>Getting Started with Nextjs: Building my first Nextjs app about e-commerce</i></a></li>
   <li><a href="https://github.com/duythaidev/kitchen-utensils-be"><i>Getting Started with Nestjs: Building my e-commerce backend site with Nestjs</i></a></li>
-  <li><a href="https://kerkzek.github.io/Portfolio/"><i>My old portfolio (built last year)</i></a></li>
+  <li><a href="https://portfolio-design-react.vercel.app"><i>My old portfolio (built with react last year)</i></a></li>  
+  <li><a href="https://kerkzek.github.io/Portfolio/"><i>My old portfolio (built with html, css last year)</i></a></li>
+  <li><a href="https://github.com/duythaidev/SpringMVCPRJ"><i>E-commerce website with Spring MVC and JSP</i></a></li>
 </ul>
 
 <h3>My GitHub contributions summary</h3>
